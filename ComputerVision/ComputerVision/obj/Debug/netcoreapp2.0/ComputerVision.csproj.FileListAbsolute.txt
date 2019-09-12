@@ -1,0 +1,11 @@
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\bin\Debug\netcoreapp2.0\ComputerVision.deps.json
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\bin\Debug\netcoreapp2.0\ComputerVision.runtimeconfig.json
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\bin\Debug\netcoreapp2.0\ComputerVision.runtimeconfig.dev.json
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\bin\Debug\netcoreapp2.0\ComputerVision.dll
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.csprojAssemblyReference.cache
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.csproj.CoreCompileInputs.cache
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.AssemblyInfoInputs.cache
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.AssemblyInfo.cs
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\bin\Debug\netcoreapp2.0\ComputerVision.pdb
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.dll
+c:\users\neillaptop\source\repos\ComputerVision\ComputerVision\obj\Debug\netcoreapp2.0\ComputerVision.pdb
